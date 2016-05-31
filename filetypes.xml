@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="YandexMailTest" type="CLASS" />
+      <mapping pattern="Yandex" type="CLASS" />
+      <mapping pattern="YandexTest" type="Native" />
+    </extensionMap>
+  </component>
+</application>
